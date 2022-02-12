@@ -1,0 +1,23 @@
+#header{
+    width:100%;
+    font-size: 20px;
+    height:80px;
+    box-shadow: 5px 1px 15px grey;
+}
+body{
+    background-color:black;
+}
+canvas{
+    margin-top:100px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 5px 1px 15px whitesmoke;
+}
+button{
+    width:120px;
+    height:40px;
+}
+#songName{
+    font-size: 18px;
+}
